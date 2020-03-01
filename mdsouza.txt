@@ -1,0 +1,4 @@
+GitHub username is michelledz
+
+GitHub URL is https://github.com/michelledz/cisc275-spring2020-first-git
+
